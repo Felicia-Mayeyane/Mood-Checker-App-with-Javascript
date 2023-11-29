@@ -31,3 +31,8 @@ Step2: Read uplifting quote to <i>keep on keeping on</i>
   <li>Images of my favorite pets and cartoons always put a smile on my face no matter how I am feeling</li>
   <li><b>NB!</b>b>Suggested activities to help me manage my mood, if I am happy or just feeling great I bask in that feeling knowing that I deserve to feel this way, On days I am nervous and sad the suggested activities come in handy and help me to be intentional about managing emotions positively</li>
 </ul>
+
+:camera:<h1>Video Demo</h1> :movie_camera:
+
+
+
