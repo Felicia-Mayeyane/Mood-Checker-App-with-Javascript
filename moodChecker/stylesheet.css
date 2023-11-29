@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#moodForm {
+    margin-top: 20px;
+    border: solid pink 5px;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+h1{
+    background-color: pink;
+}
+
+div{
+    background-color: pink;
+}
+
+img{
+    width:70px
+    
+}
