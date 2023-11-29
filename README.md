@@ -32,7 +32,7 @@ Step2: Read uplifting quote to <i>keep on keeping on</i>
   <li><b>NB!</b>b>Suggested activities to help me manage my mood, if I am happy or just feeling great I bask in that feeling knowing that I deserve to feel this way, On days I am nervous and sad the suggested activities come in handy and help me to be intentional about managing emotions positively</li>
 </ul>
 
-:camera:<h1>Video Demo</h1> :movie_camera:
+<h1>Video Demo</h1> :movie_camera::camera:
 
-
+https://github.com/Felicia-Mayeyane/Mood-Checker-App-with-Javascript/assets/119903285/1e1d89f1-93c9-44f1-b88d-3fc29d7657c4
 
