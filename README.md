@@ -25,7 +25,7 @@ Type in how I am feeling
 ![Screenshot 2023-11-29 151909](https://github.com/Felicia-Mayeyane/Mood-Checker-App-with-Javascript/assets/119903285/31aa8353-4ce5-4fcb-b7cb-dc133a4a7000)
 
 
-Step2: Read uplifting quote to <b>keep on keeping on
+Step2: Read uplifting quote to <i>keep on keeping on</i>
 
 <ul>
   <li>Images of my favorite pets and cartoons always put a smile on my face no matter how I am feeling</li>
