@@ -1,5 +1,5 @@
 # Mood-Checker-App-with-Javascript
-I created this to check my mood: display an encouraging quote and suggested activities with a cute images my favorite pets and cartoon characters depending on my mood
+I created this to check my mood: display an encouraging quotes and suggested activities with cute images of my favorite pets and cartoon characters depending on my mood
 
 <h2>Felicia's Mood tracker</h2>
 
