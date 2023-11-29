@@ -7,7 +7,7 @@ I created this to track my mood: display encouraging quotes and suggested activi
 
 
 <h2>The Why?</h2>
-I sometimes get really busy with school or work that i neglect checking in with myself and doing activities that rejuventate me. I intentionally created with some of my favorite activities to help me manage different emotions also reading an uplifting quote :blush:
+I sometimes get really busy with school or work that i neglect checking in with myself and doing activities that rejuvenate me. I intentionally created with some of my favorite activities to help me manage different emotions also reading an uplifting quote :blush:
 
 <h3>Technologies used</h3>
 <ul>
