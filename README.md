@@ -16,7 +16,7 @@ I sometimes get really busy with school or work that i neglect checking in with 
   <li>JAVASCRIPT</li>
 </ul>
 
-<h3>How it works :speech_balloon</h3> 
+<h3>How it works</h3> 
 
 step1: How do I feel today?:   <b>i choose from three emotions (happy, sad, nervous, great</b> 
 Type in how I am feeling
